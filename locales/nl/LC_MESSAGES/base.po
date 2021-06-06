@@ -1,0 +1,313 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: extensions/faq.py:53
+msgid "HELP_DESCRIPTION"
+msgstr "Hieronder volgt een lijst met beschikbare commando's"
+
+#: extensions/faq.py:53
+msgid "HELP_TITLE"
+msgstr "Help met de Covalent-FAQ Bot"
+
+#: extensions/faq.py:55
+msgid "HELP_COVALENT"
+msgstr "Basis informatie over het project"
+
+#: extensions/faq.py:56
+msgid "HELP_TASKS"
+msgstr "Over opdrachten en waarom ik ze moet voltooien?"
+
+#: extensions/faq.py:57
+msgid "HELP_REWARDS"
+msgstr "Wat zijn de beloningen en hoe kan ik ze verdienen?"
+
+#: extensions/faq.py:58
+msgid "HELP_NAVIGATION"
+msgstr "Hulp met server navigatie, lijst met de belangrijkste kanalen"
+
+#: extensions/faq.py:59
+msgid "HELP_PINNED"
+msgstr ""
+"Een tip voor beginners over hoe vastgepinde berichten te vinden in Discord "
+"(screenshot)"
+
+#: extensions/faq.py:66
+msgid "COVALENT_DESCRIPTION"
+msgstr ""
+"Covalent biedt een uniforme API die zichtbaarheid biedt aan miljarden "
+"blockchain data punten."
+
+#: extensions/faq.py:66
+msgid "COVALENT_TITLE"
+msgstr "Covalent"
+
+#: extensions/faq.py:68
+msgid "COVALENT_FIELD1_NAME"
+msgstr "Over het project"
+
+#: extensions/faq.py:68
+msgid "COVALENT_FIELD1_VALUE"
+msgstr ""
+"Ons team bestaat uit veteranen uit de industrie in database en "
+"gedistribueerde systemen.\n"
+"Covalent wordt gefinancieerd door vooraanstaande investeerders, met meer dan "
+"een decennium aan expertise aan het bouwen en opschalen van "
+"technologiebedrijven.\n"
+"\n"
+"Covalent lost het probleem op van de databeschikbaarheidskloof op de "
+"Ethereum blockchain. We leveren on-chain data en analyses voor blockchains "
+"(momenteel Ethereum), en op dit moment,\n"
+"We ondersteunen de top DeFi (gedecentraliseerde financiering) protocollen in "
+"de ruimte -- Maker, Uniswap, Compound, dYdX, om er een paar op te noemen.\n"
+"We ondersteunen het uitspraak, 'DeFi is Fintech 2.0,' en dat het de "
+"tussenpersoon zal wegnemen.\n"
+"\n"
+"Ons doel is om een indexeer machine te bouwen om te kunnen zoeken en om het "
+"relevant te maken voor de eindgebruiker."
+
+#: extensions/faq.py:75
+msgid "TASKS_DESCRIPTION"
+msgstr "FAQ over taken"
+
+#: extensions/faq.py:75
+msgid "TASKS_TITLE"
+msgstr "Taken"
+
+#: extensions/faq.py:77
+msgid "TASKS_FIELD1_NAME"
+msgstr ""
+"Hoe kan ik een iets voorstellen/goedkeuring krijgen voor taken die niet zijn "
+"opgenomen in de officiële lijst?"
+
+#: extensions/faq.py:77
+msgid "TASKS_FIELD1_VALUE"
+msgstr ""
+"Als je een voorstel voor een opdracht hebt, plaats het alsjeblieft in de "
+"'Ideas Under Review' sectie op Click-up. Het Covalent team zal antwoord "
+"geven en je laten weten of het goedgekeurd of afgekeurd is. Gelieve aan te "
+"geven onder welke specialisatie de voorgestelde taak valt bijv., Content "
+"Creator."
+
+#: extensions/faq.py:78
+msgid "TASKS_FIELD2_NAME"
+msgstr "Hoe worden de belongingsbedragen bepaald?"
+
+#: extensions/faq.py:78
+msgid "TASKS_FIELD2_VALUE"
+msgstr ""
+"Elk ingeleverde opdracht wordt beoordeeld op basis van vastgestelde "
+"criteria. De criteria verschillen per specialisatie."
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD3_NAME"
+msgstr "Wat zijn brouwsels?"
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD3_VALUE"
+msgstr ""
+"Beloningen voor Alchemisten worden uitgedrukt in brouwsels, symbolisch "
+"weergegeven als  🧪. 1 🧪 staat gelijk aan 1 CQT in het Covalent Netwerk."
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD4_NAME"
+msgstr "Kan ik een opdracht voltooien samen met een andere Alchemist?"
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD4_VALUE"
+msgstr ""
+"Absoluut! (Bijna) elke taak kan gezamenlijk worden voltooid.Vandaar dat er "
+"dus niet per se individuele of groepsopdrachten zijn. Hoe je elke taak "
+"aanpakt en voltooit is volledig je eigen keuze  - sommige van de kleinere, "
+"eenvoudigere taken zijn misschien niet zinvolom op te delen in subtaken.\n"
+"Als je een taak met een andere Alchemist(en) wil volbrengen, moedigen we je "
+"sterk aan om deze wens met de groep te communiceren."
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD5_NAME"
+msgstr "Hoe worden beloningen over de groep verdeeld?"
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD5_VALUE"
+msgstr ""
+"De beloningen voor groepstaken worden standaard verdeeld door het aantal "
+"personen dat deelneemt aan de taak. Bijvoorbeeld, 3 Alchemisten werken aan "
+"een groepstaak met een waarde van 5,000🧪s. De beloning die elk individu in "
+"dit geval zou krijgen is 1,666 🧪s (5000/3).\n"
+"Indien de groep de prijs niet collectief wenst te verdelen **gelijkmatig,** "
+"communiceer dit dan alsjeblieft met de Raad. De Raad staat dit alleen toe "
+"als de groep **als geheel** overeenstemming heeft bereikt over hoe de prijs "
+"zal worden verdeeld."
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD6_NAME"
+msgstr ""
+"Een andere Alchemist is al met een bepaalde taak bezig/voltooid. Kan ik nog "
+"steeds aan die taak werken?"
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD6_VALUE"
+msgstr ""
+"Absoluut. We moedigen echter wel indivualiteit aan in het schrijven. Het "
+"simpelweg citeren van het werk van een andere Alchemist is ook **niet "
+"toegestaan**.\n"
+"Bovendien, is het kopiëren ook niet toegestaan in vertalingen en sommige "
+"Developer Augmentation werk. Hoewel gidsen voor ontwikkelaars kunnen worden "
+"gedupliceerd, kunnen specifieke ontwikkelingstaken, zoals een door de "
+"gemeenschap gebouwde webpagina of een applicatie niet worden gedupliceerd."
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD7_NAME"
+msgstr ""
+"Kan evenementenwerk (Dungeons & Data, One Million Wallets, etc.) worden "
+"ingediend als een voltooide taak?"
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD7_VALUE"
+msgstr ""
+"Dit zal van geval tot geval bekeken worden. Als het werk dat je gedaan hebt "
+"een veel tijd in beslag nam en je daardoor niet de kans hebt gehad om te "
+"werken aan Alchemist taken, dan ja.\n"
+"We raden je aan om contact op te nemen met de Raad en het werk voor te "
+"stellen dat jehebt voltooid voor het evenement. Wij zullen het bekijken en "
+"je laten weten of het inaanmerking komt."
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD8_NAME"
+msgstr "Waar kan ik mijn werk inleveren?"
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD8_VALUE"
+msgstr ""
+"Een Typeform link zal worden gegeven voor elk seizoen. Deze link zal worden "
+"gegeven in het bericht dat het nieuwe seizoen aankondigt. Dit bericht zal "
+"worden geplaatst in het Covalent Alchemists #📣announcements kanaal."
+
+#: extensions/faq.py:91
+msgid "REWARDS_DESCRIPTION"
+msgstr "FAQ over beloningen"
+
+#: extensions/faq.py:91
+msgid "REWARDS_TITLE"
+msgstr "Beloningen"
+
+#: extensions/faq.py:93
+msgid "REWARDS_FIELD1_NAME"
+msgstr "Wanneer ontvangen ik mijn Brouwel🧪 beloningen?"
+
+#: extensions/faq.py:93
+msgid "REWARDS_FIELD1_VALUE"
+msgstr ""
+"Voordat de token wordt gelanceerd, zullen we een logboek bijhouden van "
+"hoeveel elke Alchemist heeft verdiend. Dit bedrag zal collectief worden "
+"uitbetaald tijdens de eerste uitbetalingsperiode. Beloningen zullen aan het "
+"einde van elke maand uitgedeeld (Seizoen)."
+
+#: extensions/faq.py:94
+msgid "REWARDS_FIELD2_NAME"
+msgstr ""
+"Waarom is er een limiet op hoeveel Brousels 🧪 I kan verdienen per seizoen?"
+
+#: extensions/faq.py:94
+msgid "REWARDS_FIELD2_VALUE"
+msgstr ""
+"Er is een  is vast budget aan Brouwsel:test_tube:s bepaald vóór elk seizoen. "
+"Daarom moeten wij een beperking instellen om overbesteding van de Brouwsel:"
+"test_tube:s  (een max poule per seizoen met een nieuwe poule voor het "
+"volgende seizoen).\n"
+"Er is ook een indivuele bovengrens die dicht ligt bij (bijv. 20% hoger dan) "
+"de gemiddelde Brouwsel:test_tube:s een Alchemist Ambassadeur zou verdienen "
+"in het Seizoen als elke Ambassadeur in het Seizoen evenveel zou deelnemen.We "
+"moedigen iedereen aan om genoeg taken te voltooien om dit limiet  te "
+"bereiken. Let op, als je eenmaal de limiet, kun je niet meer  Brouwels:"
+"test_tube:s verdienen voor dat seizoen, tenzij een uitzondering is gemaakt "
+"bij De Raad. Dit maximum wordt echter aan het begin van elk seizoen "
+"vastgesteld. Zodra de poule max is bereikt, dan zijn er geen opdrachten meer "
+"die beloond worden met  Brouwels:test_tube:s tot het volgende Seizoen begint."
+"We verwachten niet dat dit regelmatig zal gebeuren of dat er een groot "
+"verschil zal zijn tussen de Seizoenen."
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD3_NAME"
+msgstr "Sommige taken overschrijden het maximumbedrag. Waarom is dit?"
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD3_VALUE"
+msgstr ""
+"Deze taken zijn zo opgezet om samenwerking aan te moedigen. Veel van de "
+"taken op Master niveau vereisen samenwerking, omdat ze moeilijk zijn om "
+"alleen uit te voeren.\n"
+"Bijvoorbeeld, een Master level taak heeft een beloning van 6,000🧪s maar het "
+"max aantal voor het 2 weekse seizoen is 3,000 🧪s. In dit geval, een team van "
+"2 kan samen deze taak oppakken en elk met 3,000 🧪s beloond worden.\n"
+"Bovendien kan De Raad voor sommige Master level taken afzien van het "
+"individuele maximum (in feite, lenen tegen de limiet van 1 maand van 6,000 🧪"
+"s)."
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD4_NAME"
+msgstr "Waar kan ik mijn verdiende Brouwsel🧪s volgen?"
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD4_VALUE"
+msgstr ""
+"Er worden twee spreadsheets bijgehouden. Er is een intern logboek waar "
+"alleen het directe Covalent team toegang tot heeft. Ondertussen, is er ook "
+"een extern logboek, bekend als het Covalent Alchemist Leaderboard.\n"
+"Deze zal periodiek worden bijgewerkt gedurende elke betalingsperiode.\n"
+"Het Covalent Alchemists Leaderboard & dashboard komt er snel aan!"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD5_NAME"
+msgstr "Wat als ik het adres van mijn portefeuille wil veranderen?"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD5_VALUE"
+msgstr ""
+"Neem contact op met De Raad en deze verandering kan worden doorgevoerd."
+
+#: extensions/faq.py:104
+msgid "NAVIGATION_TITLE"
+msgstr "Covalent Discord navigatie"
+
+#: extensions/faq.py:104
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr "Instructie voor navigatie in de server"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_FIELD1_NAME"
+msgstr "Belangrijke kanalen"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+"#💬general - algemene discussie over het project in het Engels\n"
+"#📆events - lijst met belangrijke evenementen"
+
+#: extensions/faq.py:107
+msgid "NAVIGATION_FIELD2_NAME"
+msgstr "Inhoudelijke chats"
+
+#: extensions/faq.py:107
+msgid "NAVIGATION_FIELD2_VALUE"
+msgstr ""
+"#🐸memes - stuur je memes hier, alleen die van hoge kwaliteit\n"
+"#🐶pets - huisdieren\n"
+"#🍕foodies - eten en meer"
+
+#: extensions/faq.py:116
+msgid "Pinned Messages"
+msgstr "Gepinned Berichten"

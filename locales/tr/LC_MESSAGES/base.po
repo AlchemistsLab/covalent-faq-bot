@@ -1,0 +1,321 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: extensions/faq.py:53
+msgid "HELP_DESCRIPTION"
+msgstr "Aşağıda mevcut komutların bir listesi bulunmaktadır."
+
+#: extensions/faq.py:53
+msgid "HELP_TITLE"
+msgstr "Covalent-SSS Botuyla Yardım"
+
+#: extensions/faq.py:55
+msgid "HELP_COVALENT"
+msgstr "Proje hakkında temel bilgiler"
+
+#: extensions/faq.py:56
+msgid "HELP_TASKS"
+msgstr "Görevler hakkında bilgiler ve neden görevleri tamamlamam gerekiyor?"
+
+#: extensions/faq.py:57
+msgid "HELP_REWARDS"
+msgstr "Ödüller nedir ve nasıl kazanılır?"
+
+#: extensions/faq.py:58
+msgid "HELP_NAVIGATION"
+msgstr "Sunucuda gezinme konusunda yardım, ana kanalların listesi"
+
+#: extensions/faq.py:59
+msgid "HELP_PINNED"
+msgstr ""
+"Yeni başlayanlar için Discord'da sabitlenmiş mesajların nasıl bulunacağına "
+"dair bir ipucu (ekran görüntüsü)"
+
+#: extensions/faq.py:66
+msgid "COVALENT_DESCRIPTION"
+msgstr ""
+"Covalent, milyarlarca blockchain veri noktasına görünürlük getiren birleşik "
+"bir API sağlar."
+
+#: extensions/faq.py:66
+msgid "COVALENT_TITLE"
+msgstr "Covalent"
+
+#: extensions/faq.py:68
+msgid "COVALENT_FIELD1_NAME"
+msgstr "Proje Hakkında"
+
+#: extensions/faq.py:68
+msgid "COVALENT_FIELD1_VALUE"
+msgstr ""
+"Ekibimiz, veri tabanı ve dağıtık sistemler konusunda sektörün duayenlerinden "
+"oluşmaktadır.\n"
+"Covalent, teknoloji şirketlerini kurma ve ölçeklendirme konusunda on yılı "
+"aşkın uzmanlığa sahip, önde gelen girişim yatırımcıları tarafından finanse "
+"edilmektedir.\n"
+"\n"
+"Covalent, Ethereum blok zincirini engelleyen veri kullanılabilirliği açığı\n"
+"sorununu çözüyor. Blok zincirleri (şu anda Ethereum) için zincir üstü "
+"veriler\n"
+"ve analizler sağlıyoruz. Şu anda alandaki en iyi DeFi (merkezi olmayan "
+"finans)\n"
+"protokollerini destekliyoruz - Maker, Uniswap, Compound, dYdX, bunlardan "
+"birkaçı.\n"
+"'DeFi Fintech 2.0'dır' anlatısını destekliyoruz ve aracıları ortadan "
+"kaldıracaktır.\n"
+"\n"
+"Amacımız, arama yapmak ve onu son kullanıcı için alakalı hale getirmek adına "
+"bir dizin yaratma motoru oluşturmaktır."
+
+#: extensions/faq.py:75
+msgid "TASKS_DESCRIPTION"
+msgstr "Görevler Hakkında SSS"
+
+#: extensions/faq.py:75
+msgid "TASKS_TITLE"
+msgstr "Görevler"
+
+#: extensions/faq.py:77
+msgid "TASKS_FIELD1_NAME"
+msgstr ""
+"Resmi listede yer almayan görevler için nasıl teklif / yetki alabilirim?"
+
+#: extensions/faq.py:77
+msgid "TASKS_FIELD1_VALUE"
+msgstr ""
+"Önerilen bir göreviniz varsa, lütfen bunu Click-up'taki 'İncelenmekte\n"
+"olan Fikirler' bölümüne yerleştirin. Covalent ekibi yanıt verecek ve "
+"onaylanıp\n"
+"onaylanmadığını size bildirecektir. Ayrıca, lütfen önerilen görevin hangi\n"
+"uzmanlığa, yani İçerik Oluşturucuya girdiğini belirtin."
+
+#: extensions/faq.py:78
+msgid "TASKS_FIELD2_NAME"
+msgstr "Ödül miktarları nasıl belirlenir?"
+
+#: extensions/faq.py:78
+msgid "TASKS_FIELD2_VALUE"
+msgstr ""
+"Sunulan her çalışma, belirlenen kriterlere göre uygun şekilde "
+"değerlendirilecektir. Ana hatlarıyla belirtilen kriterler her uzmanlık alanı "
+"için farklılık gösterir."
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD3_NAME"
+msgstr "Potion (İksir) nedir?"
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD3_VALUE"
+msgstr ""
+"Alchemist ödülleri, sembolik olarak :test_tube: olarak gösterilen iksirlerde "
+"(potion) belirtilir. 1 :test_tube: , Covalent Ağında 1 CQT'yi temsil eder."
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD4_NAME"
+msgstr "Başka bir Alchemist ile bir görevi tamamlayabilir miyim?"
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD4_VALUE"
+msgstr ""
+"Kesinlikle! Sunulan her görev ortaklaşa tamamlanabilir. Bu nedenle, tek "
+"başına\n"
+"grup veya bireysel görevler yoktur. Her bir görevin üstesinden nasıl "
+"geleceğiniz\n"
+"ve her bir görevi nasıl tamamlayacağınız, sağduyu / mantık çerçevesinde "
+"tamamen\n"
+"size bağlıdır - daha küçük ve daha basit görevlerin bazılarının alt "
+"görevlere\n"
+"bölünmesi mantıklı olmayabilir. Başka bir Alchemist ile bir görevi "
+"tamamlamak\n"
+"istiyorsanız, bu isteğinizi gruba iletmenizi şiddetle tavsiye ederiz."
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD5_NAME"
+msgstr "Grup çalışması için ödüller nasıl dağıtılır?"
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD5_VALUE"
+msgstr ""
+"Varsayılan olarak; grup görevleri için ödüller, göreve katılan sayıya\n"
+"bölünecektir. Örneğin, 3 Alchemist 5.000 :test_tube: değerinde bir grup "
+"görevi\n"
+"üzerinde çalışıyor. Bu durumda her bir bireyin alacağı ödül 1.666 :"
+"test_tube: (5000/3) olacaktır.\n"
+"Bununla birlikte, grup ödülü toplu olarak eşit olarak dağıtmak istemezse,\n"
+"lütfen bu konuyu Yönetime ile iletin. Yönetim, ancak grubun bir bütün "
+"olarak\n"
+"ödülün nasıl dağıtılacağı konusunda anlaşmaya varması durumunda buna izin "
+"verecektir"
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD6_NAME"
+msgstr ""
+"Başka bir Alchemist zaten belirli bir görev üzerinde çalışıyor / tamamladı. "
+"Hala o görev üzerinde çalışabilir miyim?"
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD6_VALUE"
+msgstr ""
+"Kesinlikle. Bununla birlikte, yazılarınızda bireyselliği teşvik ediyoruz.\n"
+"Başka bir Alchemist’in eserinden alıntı yapmaya da izin verilmez.\n"
+"Ayrıca, görevlerin tekrarlanmasına izin verilmeyen yerlerde çeviriler ve "
+"bazı\n"
+"Developer Augmentation çalışmaları yapılır. Geliştirici kılavuzları "
+"çoğaltılabilirken, topluluk tarafından oluşturulmuş bir web sayfası veya bir "
+"uygulama gibi belirli geliştirme görevleri çoğaltılamaz."
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD7_NAME"
+msgstr ""
+"Etkinlik (Dungeons & Data, One Million Wallets, vb.) Çalışmaları, "
+"tamamlanmış bir görev olarak gönderilebilir mi?"
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD7_VALUE"
+msgstr ""
+"Bu, duruma göre ele alınacaktır. Tamamladığınız iş önemli miktarda zaman "
+"aldıysa ve sonuç olarak Alchemist görevleri üzerinde çalışma şansınız "
+"olmadıysa, o zaman evet.Yönetim ile iletişime geçmenizi ve etkinlik için "
+"tamamladığınız çalışmayı sunmanızı öneririz. İnceleyeceğiz ve uygun olup "
+"olmadığını size bildireceğiz."
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD8_NAME"
+msgstr "Çalışmamı nereye gönderebilirim?"
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD8_VALUE"
+msgstr ""
+"Her sezon bunu yapmak için bir Typeform bağlantısı sağlanacaktır. Bu "
+"bağlantı yeni sezonu duyuran mesajda verilecektir. Bu mesaj Covalent "
+"Alchemist  #:mega: announcements duyuru kanalında paylaşılacaktır."
+
+#: extensions/faq.py:91
+msgid "REWARDS_DESCRIPTION"
+msgstr "Ödüller hakkında SSS"
+
+#: extensions/faq.py:91
+msgid "REWARDS_TITLE"
+msgstr "Ödüller"
+
+#: extensions/faq.py:93
+msgid "REWARDS_FIELD1_NAME"
+msgstr "Potion :test_tube: ödüllerimi ne zaman alacağım?"
+
+#: extensions/faq.py:93
+msgid "REWARDS_FIELD1_VALUE"
+msgstr ""
+"Token’ın piyasaya sürülmesinden önce, her bir Alchemist’in ne kadar Potion "
+"(iksir) kazandığına dair bir kayıt tutacağız. Bu tutar, ilk ödeme döneminde "
+"toplu olarak ödenecektir. Ödüller her ayın (Sezon) sonunda dağıtılacaktır."
+
+#: extensions/faq.py:94
+msgid "REWARDS_FIELD2_NAME"
+msgstr ""
+"Sezon başına kaç tane Potion :test_tube: kazanabileceğim konusunda neden bir "
+"sınır var?"
+
+#: extensions/faq.py:94
+msgid "REWARDS_FIELD2_VALUE"
+msgstr ""
+"Her sezondan önce belirlenmiş bir Potion :test_tube: bütçesi vardır. Sonuç "
+"olarak, Potion :test_tube: 'nin aşırı harcanmasını önlemek için bir "
+"kısıtlama uygulamalıyız (her sezonun ayrı sınırları mevcut). Ayrıca, "
+"Sezondaki her Alchemist Ambassador’ın eşit şekilde katılması durumunda, bir "
+"Alchemist Ambassador Sezonda kazanacağı ortalama Potion :test_tube: 'ye "
+"yakın (ör.% 20 daha yüksek) bir bireysel üst sınır da vardır. Her Alchemist "
+"bu sınıra ulaşmak için yeterli görevi tamamlamaya teşvik ediyoruz. "
+"Unutmayın, bireysel sınıra ulaştığınızda, Yönetim tarafından bir istisna "
+"yapılmadıkça o sezon için daha fazla Potion :test_tube: kazanamazsınız. "
+"Ancak bu sınır her sezonun başında sıfırlanacaktır. Bir Sezon için havuz "
+"sınırına ulaşıldığında, sonraki Sezon başlayana kadar o Sezondaki Alchemist "
+"Ambassador’lar için Potion :test_tube: ile ödüllendirecek başka görev "
+"olmayacak. Bunun düzenli olarak olmasını veya Sezonlar arasında önemli bir "
+"boşluk olmasını beklemiyoruz."
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD3_NAME"
+msgstr "Bazı görevler sınır miktarını aşıyor. Bunun nedeni nedir?"
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD3_VALUE"
+msgstr ""
+"Bu görevler, işbirliğini teşvik etmek için bu şekilde tasarlanmıştır. Master "
+"düzeyindeki görevlerin çoğu, yalnızca zorlukları nedeniyle işbirliği "
+"gerektirecektir.\n"
+"Örneğin, Master seviyesindeki bir görevin ödülü 6.000 :test_tube: olacaktır, "
+"ancak 2 haftalık sezon için üst sınır miktarı 3.000 :test_tube: 'dir. Bu "
+"durumda, 2 kişilik bir ekip bu görevin üstesinden gelebilir ve her birine "
+"3.000 :test_tube: ile ödüllendirilebilir.\n"
+"Ek olarak, belirli Master düzeyindeki görevler için, Yönetim bireysel üst "
+"sınırdan feragat edebilir (etkin bir şekilde, 1 aylık 6.000 :test_tube: 'lik "
+"bireysel sınıra karşı borçlanmak gibi)."
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD4_NAME"
+msgstr "Potion :test_tube: ödüllerimi nereden takip edebilirim?"
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD4_VALUE"
+msgstr ""
+"İki elektronik tabloda kaydedilecektir. Yalnızca doğrudan Covalent ekibinin "
+"erişebildiği dahili bir günlük de vardır. Bu arada, Covalent Alchemist "
+"Liderlik Tablosu olarak da bilinen harici bir kayıt var.\n"
+"Bu, her ödeme dönemi boyunca periyodik olarak güncellenecektir.Covalent "
+"Alchemist Lider Tablosu ve kontrol paneli yakında geliyor!"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD5_NAME"
+msgstr "Cüzdan adresimi değiştirmek istersem ne olur?"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD5_VALUE"
+msgstr "Lütfen Yönetim ile iletişime geçin ve bu değişiklik sağlanabilir."
+
+#: extensions/faq.py:104
+msgid "NAVIGATION_TITLE"
+msgstr "Covalent Discord Navigasyonu"
+
+#: extensions/faq.py:104
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr "Sunucuda Gezinme Talimatları"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_FIELD1_NAME"
+msgstr "Ana Kanallar"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+"#💬general - İngilizce proje hakkında genel tartışma\n"
+"#📆events - Önemli olayların listesi"
+
+#: extensions/faq.py:107
+msgid "NAVIGATION_FIELD2_NAME"
+msgstr "İçerik Sohbetleri"
+
+#: extensions/faq.py:107
+msgid "NAVIGATION_FIELD2_VALUE"
+msgstr ""
+"#🐸memes - Caps’lerinizi (eğlenceli görseller) buraya gönderin, lütfen sadece "
+"yüksek kaliteli olanlar\n"
+"#🐶pets - Evcil hayvanlar\n"
+"#🍕foodies - Yiyecek ve daha fazlası"
+
+#: extensions/faq.py:116
+msgid "Pinned Messages"
+msgstr "Sabitlenmiş Mesajlar"

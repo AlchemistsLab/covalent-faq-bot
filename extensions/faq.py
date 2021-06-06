@@ -2,7 +2,6 @@ import gettext
 
 from discord import Embed
 from discord.ext import commands
-
 import config
 from constants import GREEN
 
@@ -10,11 +9,24 @@ from constants import GREEN
 _ = gettext.gettext
 en = gettext.translation("base", localedir="locales", languages=["en"])
 ar = gettext.translation("base", localedir="locales", languages=["ar"])
-en.install()
+vn = gettext.translation("base", localedir="locales", languages=["vn"])
+tr = gettext.translation("base", localedir="locales", languages=["tr"])
+fil = gettext.translation("base", localedir="locales", languages=["fil"])
+ko = gettext.translation("base", localedir="locales", languages=["ko"])
+pl = gettext.translation("base", localedir="locales", languages=["pl"])
+nl = gettext.translation("base", localedir="locales", languages=["nl"])
+ru = gettext.translation("base", localedir="locales", languages=["ru"])
 
+en.install()
 locales = {
-    # AR
     config.AR_CHANNEL_ID: ar,
+    config.VN_CHANNEL_ID: vn,
+    config.TR_CHANNEL_ID: tr,
+    config.FIL_CHANNEL_ID: fil,
+    config.KO_CHANNEL_ID: ko,
+    config.PL_CHANNEL_ID: pl,
+    config.NL_CHANNEL_ID: nl,
+    config.RU_CHANNEL_ID: ru,
 }
 
 

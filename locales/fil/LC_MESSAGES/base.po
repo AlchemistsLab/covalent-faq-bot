@@ -1,0 +1,325 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: extensions/faq.py:53
+msgid "HELP_DESCRIPTION"
+msgstr "Nasa ibaba ang listahan ng mga magagamit na utos"
+
+#: extensions/faq.py:53
+msgid "HELP_TITLE"
+msgstr "Tulong sa Covalent-FAQ Bot"
+
+#: extensions/faq.py:55
+msgid "HELP_COVALENT"
+msgstr "Pangunahing impormasyon tungkol sa proyekto"
+
+#: extensions/faq.py:56
+msgid "HELP_TASKS"
+msgstr "Tungkol sa mga gawain at bakit kailangan kong kumpletuhin ang mga ito?"
+
+#: extensions/faq.py:57
+msgid "HELP_REWARDS"
+msgstr "Ano ang mga gantimpala at kung paano makamit ang mga ito?"
+
+#: extensions/faq.py:58
+msgid "HELP_NAVIGATION"
+msgstr "Tulong sa pag-navigate sa server, listahan ng mga pangunahing channels"
+
+#: extensions/faq.py:59
+msgid "HELP_PINNED"
+msgstr ""
+"Isang pahiwatig para sa mga nagsisimula sa kung paano makahanap ng mga naka-"
+"pin na mensahe sa Discord (screenshot)"
+
+#: extensions/faq.py:66
+msgid "COVALENT_DESCRIPTION"
+msgstr ""
+"Nagbibigay ang Covalent ng pinag-isang API na nagdadala ng kakayahang makita "
+"ang bilyun-bilyong mga puntos ng data ng blockchain."
+
+#: extensions/faq.py:66
+msgid "COVALENT_TITLE"
+msgstr "Covalent"
+
+#: extensions/faq.py:68
+msgid "COVALENT_FIELD1_NAME"
+msgstr "Tungkol sa proyekto"
+
+#: extensions/faq.py:68
+msgid "COVALENT_FIELD1_VALUE"
+msgstr ""
+"Ang aming koponan ay binubuo ng mga beterano ng industriya sa database at "
+"ipinamamahagi na mga system.\n"
+"Ang Covalent ay pinondohan ng nangungunang mga namumuhunan sa "
+"pakikipagsapalaran, na may higit sa isang dekada ng kadalubhasaan sa pagbuo "
+"at pag-scale ng mga kumpanya ng teknolohiya.\n"
+"\n"
+"Sinusuportahan namin ang nangungunang mga DeFi (desentralisadong pananalapi) "
+"na mga protokol sa kalawakan - Maker, Uniswap, Compound, dYdX, at iba pa.\n"
+"Sinusuportahan namin ang salaysay, 'DeFi is Fintech 2.0,' at aalisin nito "
+"ang mga tagapamagitan.\n"
+"Ang aming layunin ay bumuo ng isang indexing engine upang maghanap at gawin "
+"itong nauugnay para sa end-user."
+
+#: extensions/faq.py:75
+msgid "TASKS_DESCRIPTION"
+msgstr "FAQ tungkol sa mga gawain"
+
+#: extensions/faq.py:75
+msgid "TASKS_TITLE"
+msgstr "Gawain"
+
+#: extensions/faq.py:77
+msgid "TASKS_FIELD1_NAME"
+msgstr ""
+"Paano ako maaaring magmungkahi / makakuha ng pahintulot para sa mga gawain "
+"na hindi nakalista sa opisyal na listahan?"
+
+#: extensions/faq.py:77
+msgid "TASKS_FIELD1_VALUE"
+msgstr ""
+"Kung mayroon kang isang iminungkahing gawain mangyaring ilagay ito sa 'Mga "
+"Ideya Sa ilalim ng Pagsusuri'\n"
+"seksyon sa Click-up. Ang koponan ng Covalent ay tutugon at ipaalam sa iyo "
+"kung ito ay\n"
+"naaprubahan o hindi naaprubahan. Gayundin, mangyaring ibalangkas kung aling "
+"pagdadalubhasa ang\n"
+"iminungkahing gawain ay nasasailalim sa halimbawa, Tagalikha ng Nilalaman."
+
+#: extensions/faq.py:78
+msgid "TASKS_FIELD2_NAME"
+msgstr "Paano natutukoy ang mga halaga ng gantimpala?"
+
+#: extensions/faq.py:78
+msgid "TASKS_FIELD2_VALUE"
+msgstr ""
+"Ang bawat piraso ng gawaing isinumite ay hahatulan nang naaayon batay sa "
+"itinakdang pamantayan.\n"
+"Ang pamantayan na nakabalangkas ay naiiba sa bawat pagdadalubhasa."
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD3_NAME"
+msgstr "Ano ang mga potion?"
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD3_VALUE"
+msgstr ""
+"Ang gantimpala ng Alchemist ay tinukoy sa mga Potion na kinakatawan ng "
+"sagisag bilang 🧪.\n"
+"Ang 1 🧪 ay kumakatawan sa 1 CQT sa Covalent Network."
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD4_NAME"
+msgstr ""
+"Maaari ko bang makumpleto ang isang gawain kasama ang isa pang Alchemist?"
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD4_VALUE"
+msgstr ""
+"Talagang! (Halos) Ang bawat gawain na ipinakita ay maaaring makumpleto nang "
+"sama-sama.\n"
+"Samakatuwid, walang mga pangkat o indibidwal na gawain per se.\n"
+"Kung paano mo naayos ang bawat isa at nakumpleto ang bawat gawain ay ganap "
+"na nasa iyo sa loob ng sentido komun / dahilan - ang ilan sa mga mas maliit "
+"na mas simpleng mga gawain ay maaaring hindi magkaroon ng katuturan upang "
+"hatiin sa mga sub na gawain.\n"
+"Kung nais mong kumpletuhin ang isang gawain sa isa pang (mga) Alchemist, "
+"masidhi naming hinihikayat kang iparating ang kagustuhang ito sa pangkat."
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD5_NAME"
+msgstr "Paano ibinahagi ang mga gantimpala para sa pangkatang gawain?"
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD5_VALUE"
+msgstr ""
+"Bilang default, ang mga gantimpala para sa mga gawain sa pangkat ay mahahati "
+"sa bilang na nakikilahok sa gawain\n"
+"Halimbawa, ang 3 Alchemist ay nagtatrabaho sa isang gawain sa pangkat na "
+"nagkakahalaga ng 5,000🧪s.\n"
+"Ang gantimpala na makukuha ng bawat indibidwal sa kasong ito ay magiging "
+"1,666🧪s (5000/3).\n"
+"Gayunpaman, kung ang pangkat ay hindi sama-sama na nais na ipamahagi ang "
+"gantimpala ** pantay, ** mangyaring ipaalam ito sa The Council.\n"
+"Papayagan lamang ito ng Konseho kung ang pangkat ** sa kabuuan ** ay sumang-"
+"ayon sa kung paano ibabahagi ang parangal."
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD6_NAME"
+msgstr ""
+"Ang isa pang Alchemist ay nagtatrabaho na / nakumpleto ang isang partikular "
+"na gawain. Pwede ba trabaho pa rin sa gawaing iyon?"
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD6_VALUE"
+msgstr ""
+"Ganap na Hinihikayat namin ang sariling katangian sa iyong pagsusulat, "
+"gayunpaman.\n"
+"Ang simpleng pagbanggit sa gawa ng isa pang Alchemist ay hindi rin "
+"pinapayagan.\n"
+"Bukod dito, kung saan ang pagkopya ng mga gawain ay hindi pinapayagan sa mga "
+"pagsasalin at ilang gawain ng Pagpapalaki ng Developer.\n"
+"Habang ang mga gabay ng developer ay maaaring doblehin, ang mga tukoy na "
+"gawain sa pag-unlad tulad ng isang webpage na binuo ng komunidad o isang "
+"application ay hindi maaaring doblehin."
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD7_NAME"
+msgstr ""
+"Maaari bang maisumite ang isang kaganapan (Dungeons & Data, One Million "
+"Wallets, atbp.) Bilang isang natapos ang gawain?"
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD7_VALUE"
+msgstr ""
+"Hahawakan ito sa bawat batayan. Kung ang gawaing natapos mo ay tumagal ng "
+"isang malaking halaga ng oras at wala kang pagkakataon na magtrabaho sa mga "
+"gawain sa Alchemist bilang isang resulta, kung gayon oo.\n"
+"Hinihikayat ka naming makipag-ugnay sa Konseho at ipakita ang gawaing "
+"nakumpleto mo para sa kaganapan\n"
+"Susuriin namin ito at ipaalam sa iyo kung ito ay karapat-dapat."
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD8_NAME"
+msgstr "Saan ko maaaring isumite ang aking mga nagawa?"
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD8_VALUE"
+msgstr ""
+"Ibibigay ang isang link na Typeform para sa bawat panahon.\n"
+"Ang link na ito ay ibibigay sa mensahe na nagpapahayag ng bagong panahon.\n"
+"Ang mensaheng ito ay nai-post sa Covalent Alchemists # 📣announcement channel."
+
+#: extensions/faq.py:91
+msgid "REWARDS_DESCRIPTION"
+msgstr "FAQ tungkol sa mga gantimpala"
+
+#: extensions/faq.py:91
+msgid "REWARDS_TITLE"
+msgstr "Premyo"
+
+#: extensions/faq.py:93
+msgid "REWARDS_FIELD1_NAME"
+msgstr "Kailan ko makukuha ang aking mga Potion🧪 reward?"
+
+#: extensions/faq.py:93
+msgid "REWARDS_FIELD1_VALUE"
+msgstr ""
+"Bago ang paglulunsad ng token, mananatili kaming magtala isang log kung "
+"magkano ang kinita ng bawat Alchemist.\n"
+"Ang halagang ito ay babayaran nang sama-sama sa panahon ng unang panahon ng "
+"pagbabayad.\n"
+"Ibabahagi ang mga gantimpala sa pagtatapos ng bawat buwan (Season)."
+
+#: extensions/faq.py:94
+msgid "REWARDS_FIELD2_NAME"
+msgstr ""
+"Bakit may cap, hangganan sa kung gaano karaming mga Potion🧪 ang maaari kong "
+"kitain bawat panahon?"
+
+#: extensions/faq.py:94
+msgid "REWARDS_FIELD2_VALUE"
+msgstr ""
+"There is a set budget of Potion🧪s determined before each season. As a "
+"result, we have to have a constraint in place to prevent overspending of  "
+"Potion🧪s (the pool cap for the season with a new pool for the next season).\n"
+"There is also an individual cap that is set close to (e.g. 20% higher than) "
+"the average Potion🧪s an Alchemist Ambassador would earn in the Season if "
+"each Ambassador in the Season participated equally.\n"
+"We encourage each alchemist to complete enough tasks to reach this "
+"individual cap. Note, once you have hit the individual cap, you cannot earn "
+"more  Potion🧪s  for that season unless an exception is made by The Council. "
+"However, this cap will be reset at the beginning of each season. Once the "
+"pool cap is reached for a Season there are no more tasks that will reward  "
+"Potion🧪s for Alchemists Ambassadors in that Season until the next Season "
+"begins. We do not anticipate this happening regularly or for there to be a "
+"significant gap between Seasons."
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD3_NAME"
+msgstr "Ang ilang mga gawain ay lumampas sa halaga ng cap. Bakit ito?"
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD3_VALUE"
+msgstr ""
+"Ang mga gawaing ito ay dinisenyo sa ganitong paraan upang hikayatin ang "
+"pakikipagtulungan.\n"
+"Marami sa mga gawain sa antas ng Master ay mangangailangan ng "
+"pakikipagtulungan dahil sa ito ay mahirap gawin.\n"
+"Halimbawa, ang isang gawain sa antas ng Master ay magkakaroon ng gantimpala "
+"na 6,000🧪s ngunit ang halaga ng cap para sa 2 linggo na panahon ay 3,000🧪s.\n"
+"Sa kasong ito, ang isang pangkat ng 2 ay maaaring sama-sama na talakayin ang "
+"gawaing ito at gantimpalaan ng 3,000🧪s bawat isa.\n"
+"Bilang karagdagan, para sa ilang mga gawain sa antas ng Master, maaaring "
+"iurong ng Konseho ang indibidwal na cap(mabisa, paghiram laban sa 1 buwan na "
+"indibidwal na cap na 6,000🧪."
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD4_NAME"
+msgstr "Saan ko masusubaybayan ang aking mga Potion🧪s na gantimpala?"
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD4_VALUE"
+msgstr ""
+"Dalawang mga spreadsheet ang itatala sa talaan. Mayroong isang panloob na "
+"pag-log ang direktang koponan ng Covalent ay may access. Samantala, mayroong "
+"isang panlabas na log,kilala rin bilang Covalent Alchemist Leaderboard. \n"
+"Nag-up update ito sa bawat panahon ng pagbabayad. \n"
+"Ang Covalent Alchemists Leaderboard at dashboard ay paparating na!"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD5_NAME"
+msgstr "Paano kung nais kong palitan ang aking wallet address?"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD5_VALUE"
+msgstr ""
+"Mangyaring makipag-ugnayan sa mga Konseho at ang pagbabagong ito ay maaaring "
+"gawin."
+
+#: extensions/faq.py:104
+msgid "NAVIGATION_TITLE"
+msgstr "Pag-navigate sa Covalent Discord"
+
+#: extensions/faq.py:104
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr "Mga tagubilin para sa pag-navigate sa server"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_FIELD1_NAME"
+msgstr "Pangunahing Channels"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+"#💬general - pangkalahatang talakayan tungkol sa proyekto sa Ingles\n"
+"#📆events - listahan ng mahahalagang kaganapan"
+
+#: extensions/faq.py:107
+msgid "NAVIGATION_FIELD2_NAME"
+msgstr "Mga nilalaman na mensahi"
+
+#: extensions/faq.py:107
+msgid "NAVIGATION_FIELD2_VALUE"
+msgstr ""
+"#🐸memes - ipadala ang iyong mga meme dito, ang mga de-kalidad lamang\n"
+"#🐶pets - Mga Alaga\n"
+"#🍕foodies - pagkain at iba pa."
+
+#: extensions/faq.py:116
+msgid "Pinned Messages"
+msgstr "Mga Naka-pin na Mensahe"
