@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"POT-Creation-Date: 2021-06-18 18:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,51 +15,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_DESCRIPTION"
 msgstr "Poniżej znajduje się lista dostępnych poleceń"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_TITLE"
 msgstr "Pomoc z botem Covalent-FAQ"
 
-#: extensions/faq.py:55
+#: extensions/faq.py:57
 msgid "HELP_COVALENT"
 msgstr "Podstawowe informacje o projekcie"
 
-#: extensions/faq.py:56
+#: extensions/faq.py:58
 msgid "HELP_TASKS"
 msgstr "O zadaniach i dlaczego muszę je wypełniać?"
 
-#: extensions/faq.py:57
+#: extensions/faq.py:59
 msgid "HELP_REWARDS"
 msgstr "Jakie są nagrody i jak je otrzymać?"
 
-#: extensions/faq.py:58
+#: extensions/faq.py:60
 msgid "HELP_NAVIGATION"
 msgstr "Pomoc w nawigacji po serwerze, lista głównych kanałów."
 
-#: extensions/faq.py:59
+#: extensions/faq.py:61
 msgid "HELP_PINNED"
 msgstr ""
 "Wskazówka dla początkujących, jak znaleźć przypięte wiadomości w Discordzie "
 "(zrzut ekranu)"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_DESCRIPTION"
 msgstr ""
 "Covalent zapewnia ujednolicone API przynoszące widoczność do miliardów "
 "punktów danych blockchain"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_TITLE"
 msgstr "Covalent"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_NAME"
 msgstr "O projekcie"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_VALUE"
 msgstr ""
 "Nasz zespół składa się z weteranów branży baz danych i systemów "
@@ -76,21 +76,21 @@ msgstr ""
 "Naszym celem jest zbudowanie silnika indeksującego do wyszukiwania i "
 "uczynienie go istotnym dla użytkownika końcowego."
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_DESCRIPTION"
 msgstr "FAQ na temat zadań"
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_TITLE"
 msgstr "Zadania"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_NAME"
 msgstr ""
 "Jak mogę zaproponować/uzyskać autoryzację dla zadań, które nie są wymienione "
 "na oficjalnej liście?"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_VALUE"
 msgstr ""
 "Jeśli masz proponowane zadanie, umieść je w sekcji 'Pomysły do rozpatrzenia' "
@@ -99,31 +99,31 @@ msgstr ""
 "podanie specjalizacji, z której pochodzi proponowane zadanie, np.proponowane "
 "zadanie podlega, np. Content Creator."
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_NAME"
 msgstr "W jaki sposób określana jest wysokość nagrody?"
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_VALUE"
 msgstr ""
 "Każda przesłana praca zostanie odpowiednio oceniona w oparciu o ustalone "
 "kryteria.kryteriów. Przedstawione kryteria różnią się w każdej specjalizacji."
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_NAME"
 msgstr "Czym są mikstury?"
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_VALUE"
 msgstr ""
 "Nagrody Alchemików są denominowane w Miksturach reprezentowanych "
 "symbolicznie jako 🧪. 1 🧪 reprezentuje 1 CQT w sieci Covalent."
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_NAME"
 msgstr "Czy mogę wykonać zadanie z innym Alchemikiem?"
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_VALUE"
 msgstr ""
 "Absolutnie! (Prawie) Każde przedstawione zadanie może zostać ukończone we "
@@ -134,11 +134,11 @@ msgstr ""
 "Alchemikiem (innymi Alchemikami), gorąco zachęcamy do zakomunikowania tej "
 "chęci Alchemikowi.zachęcamy do zakomunikowania tego pragnienia grupie."
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_NAME"
 msgstr "W jaki sposób rozdzielane są nagrody za pracę w grupie?"
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_VALUE"
 msgstr ""
 "Domyślnie, nagrody za zadania grupowe zostaną podzielone przez liczbę "
@@ -148,13 +148,13 @@ msgstr ""
 "prosimy o poinformowanie o tym Rady. Zgoda będzie tylko wtedy, gdy grupa "
 "**jako całość** uzgodniła, w jaki sposób nagroda będzie rozdzielona."
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_NAME"
 msgstr ""
 "Inny Alchemik już pracuje nad/ukończył dane zadanie. Can I nadal pracować "
 "nad tym zadaniem?"
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_VALUE"
 msgstr ""
 "Absolutnie. Zachęcamy jednak do indywidualizmu w pisaniu. Simply cytowanie "
@@ -165,13 +165,13 @@ msgstr ""
 "strona internetowa zbudowana przez społeczność lub aplikacja nie mogą być "
 "powielane."
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_NAME"
 msgstr ""
 "Czy praca związana z wydarzeniem (Dungeons & Data, One Million Wallets, "
 "etc.) może zostać przesłana jako zadanie ukończone?"
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_VALUE"
 msgstr ""
 "Będzie to rozpatrywane na zasadzie indywidualnego przypadku. Jeśli praca, "
@@ -181,42 +181,42 @@ msgstr ""
 "ukończoną na potrzeby wydarzenia. Przejrzymy ją i damy wam znać, czy się "
 "kwalifikuje."
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_NAME"
 msgstr "Gdzie mogę przesłać swoją pracę?"
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_VALUE"
 msgstr ""
 "Link do aplikowania będzie dostarczony dla każdego sezonu, podany w "
 "wiadomości zapowiadającej nowy sezon. Wiadomość ta zostanie zamieszczona na "
 "kanale Covalent Alchemists #📣announcements."
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_DESCRIPTION"
 msgstr "FAQ odnośnie nagród"
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_TITLE"
 msgstr "Nagrody"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_NAME"
 msgstr "Kiedy moje Potion🧪 zamienią sie w nagrody?"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_VALUE"
 msgstr ""
 "Przed uruchomieniem tokena będziemy prowadzić dziennik, ile każdy Alchemik "
 "zarobił. Kwota ta zostanie wypłacona zbiorczo podczas pierwszego okresu "
 "wypłat. Nagrody będą rozdawane na koniec każdego miesiąca sezonu."
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_NAME"
 msgstr ""
 "Dlaczego istnieje limit ilości Mikstur🧪, które mogę zarobić w ciągu sezonu?"
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_VALUE"
 msgstr ""
 "Istnieje określony budżet Mikstur🧪 ustalany przed każdym sezonem. Musimy "
@@ -231,11 +231,11 @@ msgstr ""
 "sezonu  nie ma więcej zadań, które będą nagradzać Nie przewidujemy, aby "
 "działo się to regularnie lub aby była znacząca przerwa między sezonami."
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_NAME"
 msgstr "Niektóre zadania przekraczają kwotę limitu. Why is this?"
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_VALUE"
 msgstr ""
 "Zadania te zostały zaprojektowane w ten sposób, aby zachęcić do współpracy. "
@@ -249,11 +249,11 @@ msgstr ""
 "indywidualnego limitu (efektywnie, pożyczając od 1-miesięcznego "
 "indywidualnego limitu wynoszącego 6,000 🧪)."
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_NAME"
 msgstr "Gdzie mogę śledzić moje nagrody?"
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_VALUE"
 msgstr ""
 "Dwa arkusze kalkulacyjne będą przechowywane w rejestrze. Istnieje wewnętrzny "
@@ -263,43 +263,43 @@ msgstr ""
 "Będzie on okresowo aktualizowany podczas każdego okresu wypłat.Covalent "
 "Alchemists Leaderboard & dashboard już wkrótce!"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_NAME"
 msgstr "Co jeżeli chce zmienić adres portfela?"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_VALUE"
 msgstr "Proszę skontaktować się z Radą, a ta zmiana może zostać wprowadzona."
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE"
 msgstr "Nawigacja w Covalent Discord"
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Instrukcje do nawigacji na serwerze"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Główne kanały"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#💬general - ogólna dyskusja w języku angielskim\n"
 "#📆events - lista wydarzeń"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Kontent czat"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🐸memes - wysyłaj swoje memy tutaj, tylko te wysokiej jakości\n"
 "#🐶pets - pets\n"
 "#🍕foodies - jedzenie i więcej"
 
-#: extensions/faq.py:116
+#: extensions/faq.py:118
 msgid "Pinned Messages"
 msgstr "Przypięte wiadomości"

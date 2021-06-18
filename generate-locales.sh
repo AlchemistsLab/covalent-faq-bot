@@ -9,6 +9,7 @@ msgmerge locales/ko/LC_MESSAGES/base.po locales/base.pot -U --no-fuzzy-matching
 msgmerge locales/pl/LC_MESSAGES/base.po locales/base.pot -U --no-fuzzy-matching
 msgmerge locales/nl/LC_MESSAGES/base.po locales/base.pot -U --no-fuzzy-matching
 msgmerge locales/ru/LC_MESSAGES/base.po locales/base.pot -U --no-fuzzy-matching
+msgmerge locales/jp/LC_MESSAGES/base.po locales/base.pot -U --no-fuzzy-matching
 
 msgfmt locales/en/LC_MESSAGES/base.po -o locales/en/LC_MESSAGES/base.mo
 msgfmt locales/ar/LC_MESSAGES/base.po -o locales/ar/LC_MESSAGES/base.mo
@@ -19,3 +20,4 @@ msgfmt locales/ko/LC_MESSAGES/base.po -o locales/ko/LC_MESSAGES/base.mo
 msgfmt locales/pl/LC_MESSAGES/base.po -o locales/pl/LC_MESSAGES/base.mo
 msgfmt locales/nl/LC_MESSAGES/base.po -o locales/nl/LC_MESSAGES/base.mo
 msgfmt locales/ru/LC_MESSAGES/base.po -o locales/ru/LC_MESSAGES/base.mo
+msgfmt locales/jp/LC_MESSAGES/base.po -o locales/jp/LC_MESSAGES/base.mo

@@ -1,0 +1,294 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-06-18 18:32+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: extensions/faq.py:55
+msgid "HELP_DESCRIPTION"
+msgstr "以下は、使用可能なコマンドの一覧です。"
+
+#: extensions/faq.py:55
+msgid "HELP_TITLE"
+msgstr "Covalent-FAQボットのヘルプ"
+
+#: extensions/faq.py:57
+msgid "HELP_COVALENT"
+msgstr "プロジェクトの基本情報"
+
+#: extensions/faq.py:58
+msgid "HELP_TASKS"
+msgstr "タスクについて、なぜそれをこなす必要があるのか？"
+
+#: extensions/faq.py:59
+msgid "HELP_REWARDS"
+msgstr "リワードとは何か、どうやって獲得するのか。"
+
+#: extensions/faq.py:60
+msgid "HELP_NAVIGATION"
+msgstr "サーバーナビゲーションのヘルプ、メインチャンネルのリスト"
+
+#: extensions/faq.py:61
+msgid "HELP_PINNED"
+msgstr ""
+"Discordでピン留めされたメッセージを見つけるための、初心者向けのヒント（スク"
+"リーンショット)"
+
+#: extensions/faq.py:68
+msgid "COVALENT_DESCRIPTION"
+msgstr ""
+"Covalentは、何十億ものブロックチェーンのデータポイントに可視性をもたらす統一"
+"されたAPIを提供します。"
+
+#: extensions/faq.py:68
+msgid "COVALENT_TITLE"
+msgstr "Covalent"
+
+#: extensions/faq.py:70
+msgid "COVALENT_FIELD1_NAME"
+msgstr "プロジェクトについて"
+
+#: extensions/faq.py:70
+msgid "COVALENT_FIELD1_VALUE"
+msgstr ""
+"Our team is comprised of industry veterans in database and distributed 私たち"
+"のチームは、データベースと分散システムにおける業界のベテランで構成されていま"
+"す。Covalentは、テクノロジー企業の構築と拡大に10年以上の専門知識を持つ、一流"
+"のベンチャー投資家から資金提供を受けています。\n"
+"コバレントは、イーサリアムブロックチェーンを阻害するデータアベイラビリティ"
+"ギャップ問題を解決します。私たちは、ブロックチェーン「（現在はイーサリアム）"
+"にオンチェーンデータと分析を提供しており、現在は、この分野でトップのDeFi（分"
+"散型金融）プロトコルをサポートしています。-- Maker、Uniswap、Compound、dYdXな"
+"どです。私たちは、『DeFiはフィンテック2.0だ』という語り口を支持しており、それ"
+"によって仲介者がいなくなると考えています。我々の目標は、検索するためのイン"
+"デックスエンジンを構築し、エンドユーザーにとって関連性のあるものにすることで"
+"す。"
+
+#: extensions/faq.py:77
+msgid "TASKS_DESCRIPTION"
+msgstr "タスクに関するFAQ"
+
+#: extensions/faq.py:77
+msgid "TASKS_TITLE"
+msgstr "タスク"
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD1_NAME"
+msgstr ""
+"公式リストに掲載されていないタスクを提案/承認してもらうにはどうすればいいです"
+"か？"
+
+#: extensions/faq.py:79
+msgid "TASKS_FIELD1_VALUE"
+msgstr ""
+"提案されたタスクがあれば、クリックアップの「審査中のアイデア」セクションに入"
+"れてください。Covalentチームが対応し、承認されたか否かをお知らせします。ま"
+"た、提案されたタスクがどの専門分野に該当するのかを説明してください（例：コン"
+"テンツクリエイター）。"
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD2_NAME"
+msgstr "報酬額はどのように決まるのですか？"
+
+#: extensions/faq.py:80
+msgid "TASKS_FIELD2_VALUE"
+msgstr ""
+"提出された各作品は、定められた基準に基づいて適宜審査されます。基準の概要は各"
+"専門分野によって異なります。"
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD3_NAME"
+msgstr "ポーションとは？"
+
+#: extensions/faq.py:81
+msgid "TASKS_FIELD3_VALUE"
+msgstr ""
+"アルケミストの報酬は、「🧪」という記号で表されるポーションで表現されます。1 🧪"
+"は共有結合ネットワークの1 CQTを表します"
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD4_NAME"
+msgstr "他のアルケミストと一緒にタスクを完了することはできますか？"
+
+#: extensions/faq.py:82
+msgid "TASKS_FIELD4_VALUE"
+msgstr ""
+"もちろん!（ほとんど）提示されたすべてのタスクは、共同で完成させることができま"
+"す。そのため、グループタスクや個人タスクはありません。それぞれのタスクをどの"
+"ようにこなしていくかは、常識的な範囲内であなた次第です。小さな単純なタスクの"
+"中には、サブタスクに分割する意味がないものもあります。もし、他のアルケミスト"
+"と一緒にタスクをこなしたい場合は、その旨をグループに伝えることを強くお勧めし"
+"ます。"
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD5_NAME"
+msgstr "グループワークの報酬はどのように分配されるのですか？"
+
+#: extensions/faq.py:83
+msgid "TASKS_FIELD5_VALUE"
+msgstr ""
+"デフォルトでは、グループタスクの報酬は、タスクに参加している人数で割られま"
+"す。例えば、3人のAlchemistが5,000🧪の価値のあるグループタスクに取り組んでいる"
+"とします。この場合、各個人が得られる報酬は1,666🧪(5000/3)となります。ただし、"
+"グループ全体で賞を公平に分配することを望まない場合は、その旨を協議会に伝えて"
+"ください。協議会は、グループ全体で賞の分配方法に合意した場合にのみこれを許可"
+"します。"
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD6_NAME"
+msgstr ""
+"他のアルケミストが、特定のタスクにすでに取り組んでいる/完了しています。私はま"
+"だそのタスクに取り組めますか？"
+
+#: extensions/faq.py:84
+msgid "TASKS_FIELD6_VALUE"
+msgstr ""
+"もちろんです。ただし、個性的な文章を書くことを推奨します。また、他のアルケミ"
+"ストの作品を単純に引用することも**認められません**。さらに、作業の重複が許さ"
+"れないのは、翻訳や一部のデベロッパーオーグメンテーションの作業です。デベロッ"
+"パーガイドは重複しても構いませんが、コミュニティで作られたウェブページやアプ"
+"リケーションなどの特定の開発作業は重複してはいけません。"
+
+#: extensions/faq.py:85
+msgid "TASKS_FIELD7_NAME"
+msgstr ""
+"イベント（Dungeons & Data、One Million Walletsなど）の仕事をタスク完了として"
+"提出できますか？"
+
+#: extensions/faq.py:85
+msgid "TASKS_FIELD7_VALUE"
+msgstr ""
+"これはケースバイケースで対応します。達成した作業にかなりの時間がかかり、その"
+"結果アルケミストの作業をする機会がなかったのであれば、イエスです。評議会に連"
+"絡して、イベントのために完了した作業を提示することをお勧めします。私たちはそ"
+"れを審査し、対象となるかどうかをお知らせします。"
+
+#: extensions/faq.py:86
+msgid "TASKS_FIELD8_NAME"
+msgstr "作品はどこに投稿すればいいのですか？"
+
+#: extensions/faq.py:86
+msgid "TASKS_FIELD8_VALUE"
+msgstr ""
+"各シーズンごとに、そのためのTypeformのリンクが提供されます。このリンクは、新"
+"しいシーズンをお知らせするメッセージの中で提供されます。このメッセージは、"
+"Covalent Alchemists #📣announcementsチャンネルに投稿されます。"
+
+#: extensions/faq.py:93
+msgid "REWARDS_DESCRIPTION"
+msgstr "報酬に関するFAQ"
+
+#: extensions/faq.py:93
+msgid "REWARDS_TITLE"
+msgstr "リワード"
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD1_NAME"
+msgstr "Potion🧪の報酬はいつ受け取れますか？"
+
+#: extensions/faq.py:95
+msgid "REWARDS_FIELD1_VALUE"
+msgstr ""
+"トークンの発売前に、各アルケミストがどれだけ稼いだかを記録しておきます。この"
+"金額は、最初のペイアウト期間にまとめて支払われます。報酬は各月（シーズン）の"
+"終わりに配布されます。"
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD2_NAME"
+msgstr "なぜシーズンごとに獲得できるポーションの数に上限があるのですか？"
+
+#: extensions/faq.py:96
+msgid "REWARDS_FIELD2_VALUE"
+msgstr ""
+"各シーズン前に決められたPotionの予算があります。そのため、ポーション🧪を使いす"
+"ぎないようにするための制約があります（そのシーズンのプールキャップと次のシー"
+"ズンの新しいプールの合算）。また、アルケミストアンバサダーがそのシーズンで各"
+"アンバサダーが平等に参加した場合に獲得できる平均ポーション🧪に近い（例えば20％"
+"高い）個人上限も設定されています。各アルケミストには、この個人上限に達するだ"
+"けのタスクを完了することをお勧めします。なお、一度上限に達してしまうと、評議"
+"会で例外が認められない限り、そのシーズンでそれ以上のポーション🧪を獲得すること"
+"はできません。ただし、この上限は各シーズンの初めにリセットされます。シーズン"
+"中にプールの上限に達すると、次のシーズンが始まるまで、そのシーズンの"
+"Alchemists Ambassadorsにポーション🧪の報酬を与えるタスクはなくなります。このよ"
+"うな事態が定期的に発生したり、シーズンとシーズンの間に大きなギャップが生じる"
+"ことは想定していません。"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD3_NAME"
+msgstr "タスクによっては上限額を超えるものもあります。これはなぜですか？"
+
+#: extensions/faq.py:97
+msgid "REWARDS_FIELD3_VALUE"
+msgstr ""
+"これらのタスクは、コラボレーションを促進するためにこのように設計されていま"
+"す。マスターレベルのタスクの多くは、その難しさゆえに協力が必要となります。例"
+"えば、マスターレベルのタスクの報酬は6,000🧪ですが、2週間のシーズン中の上限額は"
+"3,000🧪です。この場合、2人のチームでまとめてこのタスクに取り組むと、それぞれ"
+"3,000🧪の報酬を得ることができます。さらに、特定のマスターレベルのタスクについ"
+"ては、カウンシルは個人の上限を免除することができます（事実上、1ヶ月の個人の上"
+"限である6,000🧪を借りることができます）。"
+
+#: extensions/faq.py:98
+msgid "REWARDS_FIELD4_NAME"
+msgstr "🧪の報酬はどこで確認できますか？"
+
+#: extensions/faq.py:98
+msgid "REWARDS_FIELD4_VALUE"
+msgstr ""
+"2枚のスプレッドシートが記録されます。コバレントの直轄チームだけがアクセスでき"
+"る内部ログがあります。一方、外部には「Covalent Alchemist Leaderboard」と呼ば"
+"れるログがあります。これは、各ペイアウト期間中に定期的に更新されます。"
+"Covalent Alchemists Leaderboard & dashboardは近日公開予定です。"
+
+#: extensions/faq.py:99
+msgid "REWARDS_FIELD5_NAME"
+msgstr "ウォレットのアドレスを変更したい場合は？"
+
+#: extensions/faq.py:99
+msgid "REWARDS_FIELD5_VALUE"
+msgstr "協議会に連絡していただければ、変更が可能です。"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_TITLE"
+msgstr "Covalent Discord ナビゲーション"
+
+#: extensions/faq.py:106
+msgid "NAVIGATION_TITLE_DESCRIPTION"
+msgstr "サーバー上での操作方法について"
+
+#: extensions/faq.py:108
+msgid "NAVIGATION_FIELD1_NAME"
+msgstr "メインチャンネル"
+
+#: extensions/faq.py:108
+msgid "NAVIGATION_FIELD1_VALUE"
+msgstr ""
+"#💬general - 英語でのプロジェクトに関する一般的な議論\n"
+"#📆events - 重要なイベント"
+"のリスト"
+
+#: extensions/faq.py:109
+msgid "NAVIGATION_FIELD2_NAME"
+msgstr "Content chats"
+
+#: extensions/faq.py:109
+msgid "NAVIGATION_FIELD2_VALUE"
+msgstr ""
+"#🐸memes - ミームをここに送ってください、高品質のもの\n"
+"#🐶pets - pet\n"
+"#🍕foodies - food and more"
+
+#: extensions/faq.py:118
+msgid "Pinned Messages"
+msgstr "ピン留めされたメッセージ"

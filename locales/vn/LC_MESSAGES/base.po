@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"POT-Creation-Date: 2021-06-18 18:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: DOAN THE KHIEM <DOANTHEKHIEM@GMAIL.COM>\n"
 "Language-Team: VIETNAMESE <LL@li.org>\n"
@@ -15,51 +15,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_DESCRIPTION"
 msgstr "Dưới đây là danh sách các lệnh có sẵn"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_TITLE"
 msgstr "Trợ giúp với Bot Covalent-FAQ"
 
-#: extensions/faq.py:55
+#: extensions/faq.py:57
 msgid "HELP_COVALENT"
 msgstr "Thông tin cơ bản về dự án"
 
-#: extensions/faq.py:56
+#: extensions/faq.py:58
 msgid "HELP_TASKS"
 msgstr "Tại sao tôi cần hoàn thành các nhiệm vụ?"
 
-#: extensions/faq.py:57
+#: extensions/faq.py:59
 msgid "HELP_REWARDS"
 msgstr "Phần thưởng là gì và cách kiếm chúng?"
 
-#: extensions/faq.py:58
+#: extensions/faq.py:60
 msgid "HELP_NAVIGATION"
 msgstr "Hỗ trợ điều hướng máy chủ, danh sách các kênh chính"
 
-#: extensions/faq.py:59
+#: extensions/faq.py:61
 msgid "HELP_PINNED"
 msgstr ""
 "Một gợi ý cho người mới về cách tìm tin nhắn đã được ghim trong Discord (ảnh "
 "chụp màn hình)"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_DESCRIPTION"
 msgstr ""
 "Covalent cung cấp một API thống nhất mang lại khả năng hiển thị cho hàng tỷ "
 "điểm dữ liệu blockchain."
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_TITLE"
 msgstr "Covalent"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_NAME"
 msgstr "Thông tin dự án"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_VALUE"
 msgstr ""
 "Nhóm của chúng tôi bao gồm những người kỳ cựu trong ngành trong cơ sở dữ "
@@ -78,21 +78,21 @@ msgstr ""
 "Mục tiêu của chúng tôi là xây dựng một công cụ tìm kiếm và làm cho nó phù "
 "hợp với người dùng cuối."
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_DESCRIPTION"
 msgstr "Câu hỏi thường gặp về nhiệm vụ"
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_TITLE"
 msgstr "Các nhiệm vụ"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_NAME"
 msgstr ""
 "Làm cách nào để tôi có thể đề xuất / nhận ủy quyền cho các nhiệm vụ không "
 "được liệt kê trong danh sách chính thức?"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_VALUE"
 msgstr ""
 "Nếu bạn có một nhiệm vụ được đề xuất, vui lòng gửi nó vào phần 'Ý tưởng đang "
@@ -100,31 +100,31 @@ msgstr ""
 "được chấp thuận hay bị từ chối. Ngoài ra, vui lòng nêu ra chuyên  môn mà "
 "nhiệm vụ đề xuất tức là, Người tạo nội dung."
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_NAME"
 msgstr "Số tiền thưởng được xác định như thế nào?"
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_VALUE"
 msgstr ""
 "Mỗi tác phẩm dự thi sẽ được đánh giá tương ứng dựa trên các tiêu chí đã đặt "
 "ra. Các tiêu chí nêu ra khác nhau tùy theo chuyên môn."
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_NAME"
 msgstr "Potions là gì?"
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_VALUE"
 msgstr ""
 "Phần thưởng của Alchemist được định giá bằng Potions tương đương với 🧪. 1 🧪 "
 "CQT trong Covalent Network.."
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_NAME"
 msgstr "Tôi có thể hoàn thành một nhiệm vụ cùng một Alchemist khác không??"
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_VALUE"
 msgstr ""
 "Chắc chắn! (Hầu như) Mọi nhiệm vụ được nêu ra đều có thể được hoàn thành "
@@ -135,11 +135,11 @@ msgstr ""
 "Nếu bạn muốn hoàn thành một nhiệm vụ với các Alchemist khác, chúng tôi đặc "
 "biệt khuyến khích bạn trao đổi mong muốn này với nhóm."
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_NAME"
 msgstr "Phần thưởng được phân phối như thế nào cho công việc nhóm?"
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_VALUE"
 msgstr ""
 "Theo mặc định, phần thưởng cho các nhiệm vụ nhóm sẽ được chia theo số lượng "
@@ -151,13 +151,13 @@ msgstr ""
 "nhóm **theo số đông** đã đồng ý về cách phân phối giải thưởng phối giải "
 "thưởng."
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_NAME"
 msgstr ""
 "Một Alchemist khác đang làm việc / hoàn thành một nhiệm vụ cụ thể. Tôi vẫncó "
 "thể tiếp tục với nhiệm vụ đó chứ?"
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_VALUE"
 msgstr ""
 "Chắc chắn rồi. Tuy nhiên, chúng tôi khuyến khích tính cá nhân trong bài viết "
@@ -169,13 +169,13 @@ msgstr ""
 "thể như trang web do cộng đồng xây dựng hoặc một ứng dụng không thể bị trùng "
 "lặp."
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_NAME"
 msgstr ""
 "Có thể gửi sự kiện (Dungeon & Data, One Million Wallets, v.v.) khi một nhiệm "
 "vụ đã hoàn thành không?"
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_VALUE"
 msgstr ""
 "iệc này sẽ được xử lý theo từng trường hợp cụ thể. Nếu công việc bạn đã hoàn "
@@ -185,41 +185,41 @@ msgstr ""
 "đã hoàn thành cho sự kiện. Chúng tôi sẽ xem xét nó và cho bạn biết nếu nó đủ "
 "điều kiện."
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_NAME"
 msgstr "Tôi có thể gửi sản phẩm của mình ở đâu?"
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_VALUE"
 msgstr ""
 "Một liên kết Typeform sẽ được cung cấp để làm như vậy cho mỗi phần. Liên kết "
 "này sẽ được cung cấp trong thông báo thông báo mùa giải mới. Thông báo này "
 "sẽ được đăng trên kênh Covalent Alchemists #📣announcements channel."
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_DESCRIPTION"
 msgstr "Câu hỏi thường gặp về phần thưởng"
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_TITLE"
 msgstr "Phần thưởng"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_NAME"
 msgstr "Khi nào tôi sẽ nhận được phần thưởng Potion🧪 của mình?"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_VALUE"
 msgstr ""
 "Trước khi ra mắt mã thông báo, chúng tôi sẽ lưu giữ nhật ký về số tiền mà "
 "mỗi Alchemist đã kiếm được. Số tiền này sẽ được thanh toán chung trong kỳ "
 "thanh toán đầu tiên. Phần thưởng sẽ được phân phối vào cuối mỗi tháng (Mùa)."
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_NAME"
 msgstr "Tại sao lại giới hạn về số lượng Potion🧪 tôi có thể kiếm được mỗi mùa?"
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_VALUE"
 msgstr ""
 "Có một hạn mức định sẵn của Potion🧪 được xác định trước mỗi mùa. Do đó,chúng "
@@ -237,11 +237,11 @@ msgstr ""
 "đoán điều này xảy ra thường xuyên hoặc có một khoảng cách đáng kể giữa các "
 "Mùa."
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_NAME"
 msgstr "Một số nhiệm vụ vượt quá hạn mức tối đa. Tại sao vậy?"
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_VALUE"
 msgstr ""
 "Các nhiệm vụ này được thiết kế theo cách này để khuyến khích sự cộng tác. "
@@ -253,11 +253,11 @@ msgstr ""
 "Ngoài ra, đối với một số nhiệm vụ lever Master nhất định, Hội đồng có thể "
 "miễn giới hạn cá nhân (nếu hiệu quả, hạn mức 1 tháng có thể đạt6,000 🧪s)."
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_NAME"
 msgstr "Tôi có thể theo dõi phần thưởng Potions🧪 của mình ở đâu?"
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_VALUE"
 msgstr ""
 "Hai bảng tính sẽ được lưu trong hồ sơ. Có một nhật ký nội bộ mà chỉ nhóm "
@@ -266,44 +266,44 @@ msgstr ""
 "Bảng tính này sẽ được cập nhật định kỳ trong mỗi thời gian thanh toán.\n"
 "Bảng điều khiển  và Covalent Alchemists Leaderboard sắp ra mắt!"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_NAME"
 msgstr "Nếu tôi muốn thay đổi địa chỉ ví của mình thì sao?"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_VALUE"
 msgstr "Vui lòng liên hệ với Hội đồng và thay đổi này có thể được thực hiện."
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE"
 msgstr "Điều hướng Covalent Discord"
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Hướng dẫn điều hướng trên máy chủ"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Các kênh chính"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#💬general - thảo luận chung về dự án bằng tiếng Anh\n"
 "#📆events - danh sách các sự kiện quan trọng"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Nội dung trò chuyện"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🐸memes - gửi meme của bạn ở đây, chỉ những meme chất lượng cao\n"
 "#🐶pets - thú cưng\n"
 "#🍕foodies - thức ăn và hơn thế"
 
-#: extensions/faq.py:116
+#: extensions/faq.py:118
 msgid "Pinned Messages"
 msgstr ""
 

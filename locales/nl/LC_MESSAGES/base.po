@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"POT-Creation-Date: 2021-06-18 18:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,51 +15,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_DESCRIPTION"
 msgstr "Hieronder volgt een lijst met beschikbare commando's"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_TITLE"
 msgstr "Help met de Covalent-FAQ Bot"
 
-#: extensions/faq.py:55
+#: extensions/faq.py:57
 msgid "HELP_COVALENT"
 msgstr "Basis informatie over het project"
 
-#: extensions/faq.py:56
+#: extensions/faq.py:58
 msgid "HELP_TASKS"
 msgstr "Over opdrachten en waarom ik ze moet voltooien?"
 
-#: extensions/faq.py:57
+#: extensions/faq.py:59
 msgid "HELP_REWARDS"
 msgstr "Wat zijn de beloningen en hoe kan ik ze verdienen?"
 
-#: extensions/faq.py:58
+#: extensions/faq.py:60
 msgid "HELP_NAVIGATION"
 msgstr "Hulp met server navigatie, lijst met de belangrijkste kanalen"
 
-#: extensions/faq.py:59
+#: extensions/faq.py:61
 msgid "HELP_PINNED"
 msgstr ""
 "Een tip voor beginners over hoe vastgepinde berichten te vinden in Discord "
 "(screenshot)"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_DESCRIPTION"
 msgstr ""
 "Covalent biedt een uniforme API die zichtbaarheid biedt aan miljarden "
 "blockchain data punten."
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_TITLE"
 msgstr "Covalent"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_NAME"
 msgstr "Over het project"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_VALUE"
 msgstr ""
 "Ons team bestaat uit veteranen uit de industrie in database en "
@@ -79,21 +79,21 @@ msgstr ""
 "Ons doel is om een indexeer machine te bouwen om te kunnen zoeken en om het "
 "relevant te maken voor de eindgebruiker."
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_DESCRIPTION"
 msgstr "FAQ over taken"
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_TITLE"
 msgstr "Taken"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_NAME"
 msgstr ""
 "Hoe kan ik een iets voorstellen/goedkeuring krijgen voor taken die niet zijn "
 "opgenomen in de officiële lijst?"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_VALUE"
 msgstr ""
 "Als je een voorstel voor een opdracht hebt, plaats het alsjeblieft in de "
@@ -102,31 +102,31 @@ msgstr ""
 "geven onder welke specialisatie de voorgestelde taak valt bijv., Content "
 "Creator."
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_NAME"
 msgstr "Hoe worden de belongingsbedragen bepaald?"
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_VALUE"
 msgstr ""
 "Elk ingeleverde opdracht wordt beoordeeld op basis van vastgestelde "
 "criteria. De criteria verschillen per specialisatie."
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_NAME"
 msgstr "Wat zijn brouwsels?"
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_VALUE"
 msgstr ""
 "Beloningen voor Alchemisten worden uitgedrukt in brouwsels, symbolisch "
 "weergegeven als  🧪. 1 🧪 staat gelijk aan 1 CQT in het Covalent Netwerk."
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_NAME"
 msgstr "Kan ik een opdracht voltooien samen met een andere Alchemist?"
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_VALUE"
 msgstr ""
 "Absoluut! (Bijna) elke taak kan gezamenlijk worden voltooid.Vandaar dat er "
@@ -136,11 +136,11 @@ msgstr ""
 "Als je een taak met een andere Alchemist(en) wil volbrengen, moedigen we je "
 "sterk aan om deze wens met de groep te communiceren."
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_NAME"
 msgstr "Hoe worden beloningen over de groep verdeeld?"
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_VALUE"
 msgstr ""
 "De beloningen voor groepstaken worden standaard verdeeld door het aantal "
@@ -152,13 +152,13 @@ msgstr ""
 "als de groep **als geheel** overeenstemming heeft bereikt over hoe de prijs "
 "zal worden verdeeld."
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_NAME"
 msgstr ""
 "Een andere Alchemist is al met een bepaalde taak bezig/voltooid. Kan ik nog "
 "steeds aan die taak werken?"
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_VALUE"
 msgstr ""
 "Absoluut. We moedigen echter wel indivualiteit aan in het schrijven. Het "
@@ -169,13 +169,13 @@ msgstr ""
 "gedupliceerd, kunnen specifieke ontwikkelingstaken, zoals een door de "
 "gemeenschap gebouwde webpagina of een applicatie niet worden gedupliceerd."
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_NAME"
 msgstr ""
 "Kan evenementenwerk (Dungeons & Data, One Million Wallets, etc.) worden "
 "ingediend als een voltooide taak?"
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_VALUE"
 msgstr ""
 "Dit zal van geval tot geval bekeken worden. Als het werk dat je gedaan hebt "
@@ -185,30 +185,30 @@ msgstr ""
 "stellen dat jehebt voltooid voor het evenement. Wij zullen het bekijken en "
 "je laten weten of het inaanmerking komt."
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_NAME"
 msgstr "Waar kan ik mijn werk inleveren?"
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_VALUE"
 msgstr ""
 "Een Typeform link zal worden gegeven voor elk seizoen. Deze link zal worden "
 "gegeven in het bericht dat het nieuwe seizoen aankondigt. Dit bericht zal "
 "worden geplaatst in het Covalent Alchemists #📣announcements kanaal."
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_DESCRIPTION"
 msgstr "FAQ over beloningen"
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_TITLE"
 msgstr "Beloningen"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_NAME"
 msgstr "Wanneer ontvangen ik mijn Brouwel🧪 beloningen?"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_VALUE"
 msgstr ""
 "Voordat de token wordt gelanceerd, zullen we een logboek bijhouden van "
@@ -216,12 +216,12 @@ msgstr ""
 "uitbetaald tijdens de eerste uitbetalingsperiode. Beloningen zullen aan het "
 "einde van elke maand uitgedeeld (Seizoen)."
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_NAME"
 msgstr ""
 "Waarom is er een limiet op hoeveel Brousels 🧪 I kan verdienen per seizoen?"
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_VALUE"
 msgstr ""
 "Er is een  is vast budget aan Brouwsel:test_tube:s bepaald vóór elk seizoen. "
@@ -240,11 +240,11 @@ msgstr ""
 "We verwachten niet dat dit regelmatig zal gebeuren of dat er een groot "
 "verschil zal zijn tussen de Seizoenen."
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_NAME"
 msgstr "Sommige taken overschrijden het maximumbedrag. Waarom is dit?"
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_VALUE"
 msgstr ""
 "Deze taken zijn zo opgezet om samenwerking aan te moedigen. Veel van de "
@@ -257,11 +257,11 @@ msgstr ""
 "individuele maximum (in feite, lenen tegen de limiet van 1 maand van 6,000 🧪"
 "s)."
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_NAME"
 msgstr "Waar kan ik mijn verdiende Brouwsel🧪s volgen?"
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_VALUE"
 msgstr ""
 "Er worden twee spreadsheets bijgehouden. Er is een intern logboek waar "
@@ -270,44 +270,44 @@ msgstr ""
 "Deze zal periodiek worden bijgewerkt gedurende elke betalingsperiode.\n"
 "Het Covalent Alchemists Leaderboard & dashboard komt er snel aan!"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_NAME"
 msgstr "Wat als ik het adres van mijn portefeuille wil veranderen?"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_VALUE"
 msgstr ""
 "Neem contact op met De Raad en deze verandering kan worden doorgevoerd."
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE"
 msgstr "Covalent Discord navigatie"
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Instructie voor navigatie in de server"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Belangrijke kanalen"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#💬general - algemene discussie over het project in het Engels\n"
 "#📆events - lijst met belangrijke evenementen"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Inhoudelijke chats"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🐸memes - stuur je memes hier, alleen die van hoge kwaliteit\n"
 "#🐶pets - huisdieren\n"
 "#🍕foodies - eten en meer"
 
-#: extensions/faq.py:116
+#: extensions/faq.py:118
 msgid "Pinned Messages"
 msgstr "Gepinned Berichten"

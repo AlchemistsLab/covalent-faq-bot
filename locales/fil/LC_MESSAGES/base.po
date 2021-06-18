@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2021-06-06 22:11+0300\n"
+"POT-Creation-Date: 2021-06-18 18:28+0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,51 +15,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.5\n"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_DESCRIPTION"
 msgstr "Nasa ibaba ang listahan ng mga magagamit na utos"
 
-#: extensions/faq.py:53
+#: extensions/faq.py:55
 msgid "HELP_TITLE"
 msgstr "Tulong sa Covalent-FAQ Bot"
 
-#: extensions/faq.py:55
+#: extensions/faq.py:57
 msgid "HELP_COVALENT"
 msgstr "Pangunahing impormasyon tungkol sa proyekto"
 
-#: extensions/faq.py:56
+#: extensions/faq.py:58
 msgid "HELP_TASKS"
 msgstr "Tungkol sa mga gawain at bakit kailangan kong kumpletuhin ang mga ito?"
 
-#: extensions/faq.py:57
+#: extensions/faq.py:59
 msgid "HELP_REWARDS"
 msgstr "Ano ang mga gantimpala at kung paano makamit ang mga ito?"
 
-#: extensions/faq.py:58
+#: extensions/faq.py:60
 msgid "HELP_NAVIGATION"
 msgstr "Tulong sa pag-navigate sa server, listahan ng mga pangunahing channels"
 
-#: extensions/faq.py:59
+#: extensions/faq.py:61
 msgid "HELP_PINNED"
 msgstr ""
 "Isang pahiwatig para sa mga nagsisimula sa kung paano makahanap ng mga naka-"
 "pin na mensahe sa Discord (screenshot)"
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_DESCRIPTION"
 msgstr ""
 "Nagbibigay ang Covalent ng pinag-isang API na nagdadala ng kakayahang makita "
 "ang bilyun-bilyong mga puntos ng data ng blockchain."
 
-#: extensions/faq.py:66
+#: extensions/faq.py:68
 msgid "COVALENT_TITLE"
 msgstr "Covalent"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_NAME"
 msgstr "Tungkol sa proyekto"
 
-#: extensions/faq.py:68
+#: extensions/faq.py:70
 msgid "COVALENT_FIELD1_VALUE"
 msgstr ""
 "Ang aming koponan ay binubuo ng mga beterano ng industriya sa database at "
@@ -75,21 +75,21 @@ msgstr ""
 "Ang aming layunin ay bumuo ng isang indexing engine upang maghanap at gawin "
 "itong nauugnay para sa end-user."
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_DESCRIPTION"
 msgstr "FAQ tungkol sa mga gawain"
 
-#: extensions/faq.py:75
+#: extensions/faq.py:77
 msgid "TASKS_TITLE"
 msgstr "Gawain"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_NAME"
 msgstr ""
 "Paano ako maaaring magmungkahi / makakuha ng pahintulot para sa mga gawain "
 "na hindi nakalista sa opisyal na listahan?"
 
-#: extensions/faq.py:77
+#: extensions/faq.py:79
 msgid "TASKS_FIELD1_VALUE"
 msgstr ""
 "Kung mayroon kang isang iminungkahing gawain mangyaring ilagay ito sa 'Mga "
@@ -100,34 +100,34 @@ msgstr ""
 "pagdadalubhasa ang\n"
 "iminungkahing gawain ay nasasailalim sa halimbawa, Tagalikha ng Nilalaman."
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_NAME"
 msgstr "Paano natutukoy ang mga halaga ng gantimpala?"
 
-#: extensions/faq.py:78
+#: extensions/faq.py:80
 msgid "TASKS_FIELD2_VALUE"
 msgstr ""
 "Ang bawat piraso ng gawaing isinumite ay hahatulan nang naaayon batay sa "
 "itinakdang pamantayan.\n"
 "Ang pamantayan na nakabalangkas ay naiiba sa bawat pagdadalubhasa."
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_NAME"
 msgstr "Ano ang mga potion?"
 
-#: extensions/faq.py:79
+#: extensions/faq.py:81
 msgid "TASKS_FIELD3_VALUE"
 msgstr ""
 "Ang gantimpala ng Alchemist ay tinukoy sa mga Potion na kinakatawan ng "
 "sagisag bilang 🧪.\n"
 "Ang 1 🧪 ay kumakatawan sa 1 CQT sa Covalent Network."
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_NAME"
 msgstr ""
 "Maaari ko bang makumpleto ang isang gawain kasama ang isa pang Alchemist?"
 
-#: extensions/faq.py:80
+#: extensions/faq.py:82
 msgid "TASKS_FIELD4_VALUE"
 msgstr ""
 "Talagang! (Halos) Ang bawat gawain na ipinakita ay maaaring makumpleto nang "
@@ -140,11 +140,11 @@ msgstr ""
 "Kung nais mong kumpletuhin ang isang gawain sa isa pang (mga) Alchemist, "
 "masidhi naming hinihikayat kang iparating ang kagustuhang ito sa pangkat."
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_NAME"
 msgstr "Paano ibinahagi ang mga gantimpala para sa pangkatang gawain?"
 
-#: extensions/faq.py:81
+#: extensions/faq.py:83
 msgid "TASKS_FIELD5_VALUE"
 msgstr ""
 "Bilang default, ang mga gantimpala para sa mga gawain sa pangkat ay mahahati "
@@ -158,13 +158,13 @@ msgstr ""
 "Papayagan lamang ito ng Konseho kung ang pangkat ** sa kabuuan ** ay sumang-"
 "ayon sa kung paano ibabahagi ang parangal."
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_NAME"
 msgstr ""
 "Ang isa pang Alchemist ay nagtatrabaho na / nakumpleto ang isang partikular "
 "na gawain. Pwede ba trabaho pa rin sa gawaing iyon?"
 
-#: extensions/faq.py:82
+#: extensions/faq.py:84
 msgid "TASKS_FIELD6_VALUE"
 msgstr ""
 "Ganap na Hinihikayat namin ang sariling katangian sa iyong pagsusulat, "
@@ -177,13 +177,13 @@ msgstr ""
 "gawain sa pag-unlad tulad ng isang webpage na binuo ng komunidad o isang "
 "application ay hindi maaaring doblehin."
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_NAME"
 msgstr ""
 "Maaari bang maisumite ang isang kaganapan (Dungeons & Data, One Million "
 "Wallets, atbp.) Bilang isang natapos ang gawain?"
 
-#: extensions/faq.py:83
+#: extensions/faq.py:85
 msgid "TASKS_FIELD7_VALUE"
 msgstr ""
 "Hahawakan ito sa bawat batayan. Kung ang gawaing natapos mo ay tumagal ng "
@@ -193,30 +193,30 @@ msgstr ""
 "nakumpleto mo para sa kaganapan\n"
 "Susuriin namin ito at ipaalam sa iyo kung ito ay karapat-dapat."
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_NAME"
 msgstr "Saan ko maaaring isumite ang aking mga nagawa?"
 
-#: extensions/faq.py:84
+#: extensions/faq.py:86
 msgid "TASKS_FIELD8_VALUE"
 msgstr ""
 "Ibibigay ang isang link na Typeform para sa bawat panahon.\n"
 "Ang link na ito ay ibibigay sa mensahe na nagpapahayag ng bagong panahon.\n"
 "Ang mensaheng ito ay nai-post sa Covalent Alchemists # 📣announcement channel."
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_DESCRIPTION"
 msgstr "FAQ tungkol sa mga gantimpala"
 
-#: extensions/faq.py:91
+#: extensions/faq.py:93
 msgid "REWARDS_TITLE"
 msgstr "Premyo"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_NAME"
 msgstr "Kailan ko makukuha ang aking mga Potion🧪 reward?"
 
-#: extensions/faq.py:93
+#: extensions/faq.py:95
 msgid "REWARDS_FIELD1_VALUE"
 msgstr ""
 "Bago ang paglulunsad ng token, mananatili kaming magtala isang log kung "
@@ -225,13 +225,13 @@ msgstr ""
 "pagbabayad.\n"
 "Ibabahagi ang mga gantimpala sa pagtatapos ng bawat buwan (Season)."
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_NAME"
 msgstr ""
 "Bakit may cap, hangganan sa kung gaano karaming mga Potion🧪 ang maaari kong "
 "kitain bawat panahon?"
 
-#: extensions/faq.py:94
+#: extensions/faq.py:96
 msgid "REWARDS_FIELD2_VALUE"
 msgstr ""
 "There is a set budget of Potion🧪s determined before each season. As a "
@@ -249,11 +249,11 @@ msgstr ""
 "begins. We do not anticipate this happening regularly or for there to be a "
 "significant gap between Seasons."
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_NAME"
 msgstr "Ang ilang mga gawain ay lumampas sa halaga ng cap. Bakit ito?"
 
-#: extensions/faq.py:95
+#: extensions/faq.py:97
 msgid "REWARDS_FIELD3_VALUE"
 msgstr ""
 "Ang mga gawaing ito ay dinisenyo sa ganitong paraan upang hikayatin ang "
@@ -268,11 +268,11 @@ msgstr ""
 "iurong ng Konseho ang indibidwal na cap(mabisa, paghiram laban sa 1 buwan na "
 "indibidwal na cap na 6,000🧪."
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_NAME"
 msgstr "Saan ko masusubaybayan ang aking mga Potion🧪s na gantimpala?"
 
-#: extensions/faq.py:96
+#: extensions/faq.py:98
 msgid "REWARDS_FIELD4_VALUE"
 msgstr ""
 "Dalawang mga spreadsheet ang itatala sa talaan. Mayroong isang panloob na "
@@ -281,45 +281,45 @@ msgstr ""
 "Nag-up update ito sa bawat panahon ng pagbabayad. \n"
 "Ang Covalent Alchemists Leaderboard at dashboard ay paparating na!"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_NAME"
 msgstr "Paano kung nais kong palitan ang aking wallet address?"
 
-#: extensions/faq.py:97
+#: extensions/faq.py:99
 msgid "REWARDS_FIELD5_VALUE"
 msgstr ""
 "Mangyaring makipag-ugnayan sa mga Konseho at ang pagbabagong ito ay maaaring "
 "gawin."
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE"
 msgstr "Pag-navigate sa Covalent Discord"
 
-#: extensions/faq.py:104
+#: extensions/faq.py:106
 msgid "NAVIGATION_TITLE_DESCRIPTION"
 msgstr "Mga tagubilin para sa pag-navigate sa server"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_NAME"
 msgstr "Pangunahing Channels"
 
-#: extensions/faq.py:106
+#: extensions/faq.py:108
 msgid "NAVIGATION_FIELD1_VALUE"
 msgstr ""
 "#💬general - pangkalahatang talakayan tungkol sa proyekto sa Ingles\n"
 "#📆events - listahan ng mahahalagang kaganapan"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_NAME"
 msgstr "Mga nilalaman na mensahi"
 
-#: extensions/faq.py:107
+#: extensions/faq.py:109
 msgid "NAVIGATION_FIELD2_VALUE"
 msgstr ""
 "#🐸memes - ipadala ang iyong mga meme dito, ang mga de-kalidad lamang\n"
 "#🐶pets - Mga Alaga\n"
 "#🍕foodies - pagkain at iba pa."
 
-#: extensions/faq.py:116
+#: extensions/faq.py:118
 msgid "Pinned Messages"
 msgstr "Mga Naka-pin na Mensahe"

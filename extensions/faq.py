@@ -16,6 +16,7 @@ ko = gettext.translation("base", localedir="locales", languages=["ko"])
 pl = gettext.translation("base", localedir="locales", languages=["pl"])
 nl = gettext.translation("base", localedir="locales", languages=["nl"])
 ru = gettext.translation("base", localedir="locales", languages=["ru"])
+jp = gettext.translation("base", localedir="locales", languages=["jp"])
 
 en.install()
 locales = {
@@ -27,6 +28,7 @@ locales = {
     config.PL_CHANNEL_ID: pl,
     config.NL_CHANNEL_ID: nl,
     config.RU_CHANNEL_ID: ru,
+    config.JP_CHANNEL_ID: jp,
 }
 
 
